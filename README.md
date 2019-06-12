@@ -26,3 +26,7 @@ API desenvolvida em JAVA para contemplar as operações de CRUD (Create, Read, U
 4) Quando a aplicação estiver rodando executar o comando abaixo ou acessar diretamente o endereço **http://localhost:8080/api/banks** no navegador:
 
     $ "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" -new "127.0.0.1:8080/api/banks"
+    
+ ### Utilização
+ 
+ Para detalhes de utilização acessar o link ""https://app.swaggerhub.com/apis/jorgemax94/Users_And_Banks/1.0.0"" na aba de *'BANK'*
